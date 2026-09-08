@@ -661,3 +661,1745 @@ Body:
                 Amount: 85
               - Material: Chaotic_Essence
                 Amount: 100
+        RandomUpgrades:
+          - Enchant: Mettle_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Mettle_Jewel_3
+                Chance: 10000
+              - Item: Mettle_Jewel_2
+                Chance: 90000
+          - Enchant: Mettle_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Mettle_Jewel_4
+                Chance: 10000
+              - Item: Mettle_Jewel_3
+                Chance: 90000
+          - Enchant: Mettle_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Mettle_Jewel_5
+                Chance: 10000
+              - Item: Mettle_Jewel_4
+                Chance: 90000
+          - Enchant: Mettle_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Mettle_Jewel_6
+                Chance: 10000
+              - Item: Mettle_Jewel_5
+                Chance: 80000
+              - Item: Mettle_Jewel_4
+                Chance: 10000
+          - Enchant: Mettle_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Mettle_Jewel_7
+                Chance: 10000
+              - Item: Mettle_Jewel_6
+                Chance: 80000
+              - Item: Mettle_Jewel_5
+                Chance: 10000
+          - Enchant: Mettle_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Mettle_Jewel_5
+                Chance: 80000
+              - Item: Mettle_Jewel_7
+                Chance: 20000
+          - Enchant: Mettle_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Mettle_Jewel_6
+                Chance: 90000
+              - Item: Mettle_Jewel_8
+                Chance: 10000
+          - Enchant: Mettle_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Mettle_Jewel_7
+                Chance: 93000
+              - Item: Mettle_Jewel_9
+                Chance: 7000
+          - Enchant: Mettle_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Mettle_Jewel_8
+                Chance: 95000
+              - Item: Mettle_Jewel_10
+                Chance: 5000
+          - Enchant: Tenacity_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Tenacity_Jewel_3
+                Chance: 10000
+              - Item: Tenacity_Jewel_2
+                Chance: 90000
+          - Enchant: Tenacity_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Tenacity_Jewel_4
+                Chance: 10000
+              - Item: Tenacity_Jewel_3
+                Chance: 90000
+          - Enchant: Tenacity_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Tenacity_Jewel_5
+                Chance: 10000
+              - Item: Tenacity_Jewel_4
+                Chance: 90000
+          - Enchant: Tenacity_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Tenacity_Jewel_6
+                Chance: 10000
+              - Item: Tenacity_Jewel_5
+                Chance: 80000
+              - Item: Tenacity_Jewel_4
+                Chance: 10000
+          - Enchant: Tenacity_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Tenacity_Jewel_7
+                Chance: 10000
+              - Item: Tenacity_Jewel_6
+                Chance: 80000
+              - Item: Tenacity_Jewel_5
+                Chance: 10000
+          - Enchant: Tenacity_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Tenacity_Jewel_5
+                Chance: 80000
+              - Item: Tenacity_Jewel_7
+                Chance: 20000
+          - Enchant: Tenacity_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Tenacity_Jewel_6
+                Chance: 90000
+              - Item: Tenacity_Jewel_8
+                Chance: 10000
+          - Enchant: Tenacity_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Tenacity_Jewel_7
+                Chance: 93000
+              - Item: Tenacity_Jewel_9
+                Chance: 7000
+          - Enchant: Tenacity_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Tenacity_Jewel_8
+                Chance: 95000
+              - Item: Tenacity_Jewel_10
+                Chance: 5000
+          - Enchant: Master_A_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Master_A_Jewel_3
+                Chance: 10000
+              - Item: Master_A_Jewel_2
+                Chance: 90000
+          - Enchant: Master_A_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Master_A_Jewel_4
+                Chance: 10000
+              - Item: Master_A_Jewel_3
+                Chance: 90000
+          - Enchant: Master_A_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Master_A_Jewel_5
+                Chance: 10000
+              - Item: Master_A_Jewel_4
+                Chance: 90000
+          - Enchant: Master_A_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Master_A_Jewel_6
+                Chance: 10000
+              - Item: Master_A_Jewel_5
+                Chance: 80000
+              - Item: Master_A_Jewel_4
+                Chance: 10000
+          - Enchant: Master_A_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Master_A_Jewel_7
+                Chance: 10000
+              - Item: Master_A_Jewel_6
+                Chance: 80000
+              - Item: Master_A_Jewel_5
+                Chance: 10000
+          - Enchant: Master_A_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Master_A_Jewel_5
+                Chance: 80000
+              - Item: Master_A_Jewel_7
+                Chance: 20000
+          - Enchant: Master_A_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Master_A_Jewel_6
+                Chance: 90000
+              - Item: Master_A_Jewel_8
+                Chance: 10000
+          - Enchant: Master_A_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Master_A_Jewel_7
+                Chance: 93000
+              - Item: Master_A_Jewel_9
+                Chance: 7000
+          - Enchant: Master_A_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Master_A_Jewel_8
+                Chance: 95000
+              - Item: Master_A_Jewel_10
+                Chance: 5000
+          - Enchant: Acute_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Acute_Jewel_3
+                Chance: 10000
+              - Item: Acute_Jewel_2
+                Chance: 90000
+          - Enchant: Acute_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Acute_Jewel_4
+                Chance: 10000
+              - Item: Acute_Jewel_3
+                Chance: 90000
+          - Enchant: Acute_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Acute_Jewel_5
+                Chance: 10000
+              - Item: Acute_Jewel_4
+                Chance: 90000
+          - Enchant: Acute_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Acute_Jewel_6
+                Chance: 10000
+              - Item: Acute_Jewel_5
+                Chance: 80000
+              - Item: Acute_Jewel_4
+                Chance: 10000
+          - Enchant: Acute_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Acute_Jewel_7
+                Chance: 10000
+              - Item: Acute_Jewel_6
+                Chance: 80000
+              - Item: Acute_Jewel_5
+                Chance: 10000
+          - Enchant: Acute_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Acute_Jewel_5
+                Chance: 80000
+              - Item: Acute_Jewel_7
+                Chance: 20000
+          - Enchant: Acute_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Acute_Jewel_6
+                Chance: 90000
+              - Item: Acute_Jewel_8
+                Chance: 10000
+          - Enchant: Acute_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Acute_Jewel_7
+                Chance: 93000
+              - Item: Acute_Jewel_9
+                Chance: 7000
+          - Enchant: Acute_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Acute_Jewel_8
+                Chance: 95000
+              - Item: Acute_Jewel_10
+                Chance: 5000
+          - Enchant: Magic_E_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Magic_E_Jewel_3
+                Chance: 10000
+              - Item: Magic_E_Jewel_2
+                Chance: 90000
+          - Enchant: Magic_E_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Magic_E_Jewel_4
+                Chance: 10000
+              - Item: Magic_E_Jewel_3
+                Chance: 90000
+          - Enchant: Magic_E_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Magic_E_Jewel_5
+                Chance: 10000
+              - Item: Magic_E_Jewel_4
+                Chance: 90000
+          - Enchant: Magic_E_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Magic_E_Jewel_6
+                Chance: 10000
+              - Item: Magic_E_Jewel_5
+                Chance: 80000
+              - Item: Magic_E_Jewel_4
+                Chance: 10000
+          - Enchant: Magic_E_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Magic_E_Jewel_7
+                Chance: 10000
+              - Item: Magic_E_Jewel_6
+                Chance: 80000
+              - Item: Magic_E_Jewel_5
+                Chance: 10000
+          - Enchant: Magic_E_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Magic_E_Jewel_5
+                Chance: 80000
+              - Item: Magic_E_Jewel_7
+                Chance: 20000
+          - Enchant: Magic_E_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Magic_E_Jewel_6
+                Chance: 90000
+              - Item: Magic_E_Jewel_8
+                Chance: 10000
+          - Enchant: Magic_E_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Magic_E_Jewel_7
+                Chance: 93000
+              - Item: Magic_E_Jewel_9
+                Chance: 7000
+          - Enchant: Magic_E_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Magic_E_Jewel_8
+                Chance: 95000
+              - Item: Magic_E_Jewel_10
+                Chance: 5000
+          - Enchant: Spell_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Spell_Jewel_3
+                Chance: 10000
+              - Item: Spell_Jewel_2
+                Chance: 90000
+          - Enchant: Spell_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Spell_Jewel_4
+                Chance: 10000
+              - Item: Spell_Jewel_3
+                Chance: 90000
+          - Enchant: Spell_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Spell_Jewel_5
+                Chance: 10000
+              - Item: Spell_Jewel_4
+                Chance: 90000
+          - Enchant: Spell_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Spell_Jewel_6
+                Chance: 10000
+              - Item: Spell_Jewel_5
+                Chance: 80000
+              - Item: Spell_Jewel_4
+                Chance: 10000
+          - Enchant: Spell_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Spell_Jewel_7
+                Chance: 10000
+              - Item: Spell_Jewel_6
+                Chance: 80000
+              - Item: Spell_Jewel_5
+                Chance: 10000
+          - Enchant: Spell_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Spell_Jewel_5
+                Chance: 80000
+              - Item: Spell_Jewel_7
+                Chance: 20000
+          - Enchant: Spell_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Spell_Jewel_6
+                Chance: 90000
+              - Item: Spell_Jewel_8
+                Chance: 10000
+          - Enchant: Spell_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Spell_Jewel_7
+                Chance: 93000
+              - Item: Spell_Jewel_9
+                Chance: 7000
+          - Enchant: Spell_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Spell_Jewel_8
+                Chance: 95000
+              - Item: Spell_Jewel_10
+                Chance: 5000
+          - Enchant: Adamatine_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Adamatine_Jewel_3
+                Chance: 10000
+              - Item: Adamatine_Jewel_2
+                Chance: 90000
+          - Enchant: Adamatine_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Adamatine_Jewel_4
+                Chance: 10000
+              - Item: Adamatine_Jewel_3
+                Chance: 90000
+          - Enchant: Adamatine_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Adamatine_Jewel_5
+                Chance: 10000
+              - Item: Adamatine_Jewel_4
+                Chance: 90000
+          - Enchant: Adamatine_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Adamatine_Jewel_6
+                Chance: 10000
+              - Item: Adamatine_Jewel_5
+                Chance: 80000
+              - Item: Adamatine_Jewel_4
+                Chance: 10000
+          - Enchant: Adamatine_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Adamatine_Jewel_7
+                Chance: 10000
+              - Item: Adamatine_Jewel_6
+                Chance: 80000
+              - Item: Adamatine_Jewel_5
+                Chance: 10000
+          - Enchant: Adamatine_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Adamatine_Jewel_5
+                Chance: 80000
+              - Item: Adamatine_Jewel_7
+                Chance: 20000
+          - Enchant: Adamatine_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Adamatine_Jewel_6
+                Chance: 90000
+              - Item: Adamatine_Jewel_8
+                Chance: 10000
+          - Enchant: Adamatine_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Adamatine_Jewel_7
+                Chance: 93000
+              - Item: Adamatine_Jewel_9
+                Chance: 7000
+          - Enchant: Adamatine_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Adamatine_Jewel_8
+                Chance: 95000
+              - Item: Adamatine_Jewel_10
+                Chance: 5000
+          - Enchant: Affection_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Affection_Jewel_3
+                Chance: 10000
+              - Item: Affection_Jewel_2
+                Chance: 90000
+          - Enchant: Affection_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Affection_Jewel_4
+                Chance: 10000
+              - Item: Affection_Jewel_3
+                Chance: 90000
+          - Enchant: Affection_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Affection_Jewel_5
+                Chance: 10000
+              - Item: Affection_Jewel_4
+                Chance: 90000
+          - Enchant: Affection_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Affection_Jewel_6
+                Chance: 10000
+              - Item: Affection_Jewel_5
+                Chance: 80000
+              - Item: Affection_Jewel_4
+                Chance: 10000
+          - Enchant: Affection_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Affection_Jewel_7
+                Chance: 10000
+              - Item: Affection_Jewel_6
+                Chance: 80000
+              - Item: Affection_Jewel_5
+                Chance: 10000
+          - Enchant: Affection_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Affection_Jewel_5
+                Chance: 80000
+              - Item: Affection_Jewel_7
+                Chance: 20000
+          - Enchant: Affection_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Affection_Jewel_6
+                Chance: 90000
+              - Item: Affection_Jewel_8
+                Chance: 10000
+          - Enchant: Affection_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Affection_Jewel_7
+                Chance: 93000
+              - Item: Affection_Jewel_9
+                Chance: 7000
+          - Enchant: Affection_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Affection_Jewel_8
+                Chance: 95000
+              - Item: Affection_Jewel_10
+                Chance: 5000
+          - Enchant: Fierce_A_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Fierce_A_Jewel_3
+                Chance: 10000
+              - Item: Fierce_A_Jewel_2
+                Chance: 90000
+          - Enchant: Fierce_A_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Fierce_A_Jewel_4
+                Chance: 10000
+              - Item: Fierce_A_Jewel_3
+                Chance: 90000
+          - Enchant: Fierce_A_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Fierce_A_Jewel_5
+                Chance: 10000
+              - Item: Fierce_A_Jewel_4
+                Chance: 90000
+          - Enchant: Fierce_A_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Fierce_A_Jewel_6
+                Chance: 10000
+              - Item: Fierce_A_Jewel_5
+                Chance: 80000
+              - Item: Fierce_A_Jewel_4
+                Chance: 10000
+          - Enchant: Fierce_A_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Fierce_A_Jewel_7
+                Chance: 10000
+              - Item: Fierce_A_Jewel_6
+                Chance: 80000
+              - Item: Fierce_A_Jewel_5
+                Chance: 10000
+          - Enchant: Fierce_A_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Fierce_A_Jewel_5
+                Chance: 80000
+              - Item: Fierce_A_Jewel_7
+                Chance: 20000
+          - Enchant: Fierce_A_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Fierce_A_Jewel_6
+                Chance: 90000
+              - Item: Fierce_A_Jewel_8
+                Chance: 10000
+          - Enchant: Fierce_A_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Fierce_A_Jewel_7
+                Chance: 93000
+              - Item: Fierce_A_Jewel_9
+                Chance: 7000
+          - Enchant: Fierce_A_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Fierce_A_Jewel_8
+                Chance: 95000
+              - Item: Fierce_A_Jewel_10
+                Chance: 5000
+          - Enchant: Great_C_Jewel_1
+            Price: 35000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 60
+              - Material: Chaotic_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 40
+            Items:
+              - Item: Great_C_Jewel_3
+                Chance: 10000
+              - Item: Great_C_Jewel_2
+                Chance: 90000
+          - Enchant: Great_C_Jewel_2
+            Price: 40000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 80
+              - Material: Chaotic_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Tiem_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Great_C_Jewel_4
+                Chance: 10000
+              - Item: Great_C_Jewel_3
+                Chance: 90000
+          - Enchant: Great_C_Jewel_3
+            Price: 45000000
+            Materials:
+              - Material: Chaotic_Rune
+                Amount: 100
+              - Material: Chaotic_Essence
+                Amount: 120
+              - Material: Time_D_Ma_Rune
+                Amount: 65
+              - Material: Dimansion_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Great_C_Jewel_5
+                Chance: 10000
+              - Item: Great_C_Jewel_4
+                Chance: 90000
+          - Enchant: Great_C_Jewel_4
+            Price: 50000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 80
+              - Material: Time_D_Ma_Rune
+                Amount: 85
+              - Material: Pure_SpellScoll
+                Amount: 30
+            Items:
+              - Item: Great_C_Jewel_6
+                Chance: 10000
+              - Item: Great_C_Jewel_5
+                Chance: 80000
+              - Item: Great_C_Jewel_4
+                Chance: 10000
+          - Enchant: Great_C_Jewel_5
+            Price: 55000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 80
+              - Material: Disparate_Essence
+                Amount: 100
+              - Material: Time_D_Ma_Rune
+                Amount: 110
+              - Material: Polluted_SpellScroll
+                Amount: 30
+            Items:
+              - Item: Great_C_Jewel_7
+                Chance: 10000
+              - Item: Great_C_Jewel_6
+                Chance: 80000
+              - Item: Great_C_Jewel_5
+                Chance: 10000
+          - Enchant: Great_C_Jewel_6
+            Price: 60000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 60
+              - Material: Disparate_Essence
+                Amount: 70
+              - Material: Time_D_Ma_Rune
+                Amount: 20
+              - Material: Polluted_SpellScroll
+                Amount: 10
+            Items:
+              - Item: Great_C_Jewel_5
+                Chance: 80000
+              - Item: Great_C_Jewel_7
+                Chance: 20000
+          - Enchant: Great_C_Jewel_7
+            Price: 65000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 70
+              - Material: Disparate_Essence
+                Amount: 85
+              - Material: Time_D_Ma_Rune
+                Amount: 30
+              - Material: Polluted_SpellScroll
+                Amount: 15
+            Items:
+              - Item: Great_C_Jewel_6
+                Chance: 90000
+              - Item: Great_C_Jewel_8
+                Chance: 10000
+          - Enchant: Great_C_Jewel_8
+            Price: 70000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 90
+              - Material: Disparate_Essence
+                Amount: 110
+              - Material: Time_D_Ma_Rune
+                Amount: 50
+              - Material: Immortal_SpellScroll
+                Amount: 20
+            Items:
+              - Item: Great_C_Jewel_7
+                Chance: 93000
+              - Item: Great_C_Jewel_9
+                Chance: 7000
+          - Enchant: Great_C_Jewel_9
+            Price: 75000000
+            Materials:
+              - Material: Disparate_Rune
+                Amount: 120
+              - Material: Disparate_Essence
+                Amount: 145
+              - Material: Time_D_Ma_Rune
+                Amount: 80
+              - Material: Immortal_SpellScroll
+                Amount: 25
+            Items:
+              - Item: Great_C_Jewel_8
+                Chance: 95000
+              - Item: Great_C_Jewel_10
+                Chance: 5000
+        Upgrades:
+          - Enchant: Mettle_Jewel_6
+            Upgrade: Mettle_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Mettle_Jewel_7
+            Upgrade: Mettle_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Tenacity_Jewel_6
+            Upgrade: Tenacity_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Tenacity_Jewel_7
+            Upgrade: Tenacity_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Master_A_Jewel_6
+            Upgrade: Master_A_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Master_A_Jewel_7
+            Upgrade: Master_A_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Acute_Jewel_6
+            Upgrade: Acute_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Acute_Jewel_7
+            Upgrade: Acute_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Magic_E_Jewel_6
+            Upgrade: Magic_E_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Magic_E_Jewel_7
+            Upgrade: Magic_E_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Spell_Jewel_6
+            Upgrade: Spell_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Spell_Jewel_7
+            Upgrade: Spell_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Adamatine_Jewel_6
+            Upgrade: Adamatine_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Adamatine_Jewel_7
+            Upgrade: Adamatine_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Affection_Jewel_6
+            Upgrade: Affection_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Affection_Jewel_7
+            Upgrade: Affection_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Fierce_A_Jewel_6
+            Upgrade: Fierce_A_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Fierce_A_Jewel_7
+            Upgrade: Fierce_A_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
+          - Enchant: Great_C_Jewel_6
+            Upgrade: Great_C_Jewel_7
+            Price: 200000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 80
+              - Material: Frontier_Stone_BK
+                Amount: 80
+              - Material: Dimension_Essence_GR
+                Amount: 20
+              - Material: Dimension_Essence_BK
+                Amount: 20
+              - Material: Immortal_SpellScroll
+                Amount: 120
+          - Enchant: Great_C_Jewel_7
+            Upgrade: Great_C_Jewel_8
+            Price: 300000000
+            Materials:
+              - Material: Frontier_Stone_GR
+                Amount: 100
+              - Material: Frontier_Stone_BK
+                Amount: 100
+              - Material: Dimension_Essence_GR
+                Amount: 40
+              - Material: Dimension_Essence_BK
+                Amount: 40
+              - Material: Immortal_SpellScroll
+                Amount: 150
